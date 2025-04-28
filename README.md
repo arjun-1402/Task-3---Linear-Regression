@@ -1,1 +1,4 @@
-# Task-3---Linear-Regression
+# Task-3 Linear-Regression
+This project focuses on implementing and understanding both simple and multiple linear regression using the Housing dataset. The dataset contains various features like area, number of bedrooms, bathrooms, stories, parking availability, and additional amenities such as air conditioning and guest rooms. Using Scikit-learn, Pandas, and Matplotlib, the project involves importing and preprocessing the data (handling categorical variables and encoding them), splitting the data into training and testing sets, building a linear regression model, and evaluating it using metrics like MAE, MSE, and R² score.
+
+The regression model helps predict house prices based on different features, and the project also includes visualizing the relationship between area and price by plotting a regression line. Finally, the coefficients of the trained model are interpreted to understand the impact of each feature on the house price. This project provides a strong practical understanding of how linear regression works in real-world housing price prediction tasks.
